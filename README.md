@@ -1,10 +1,12 @@
 # GHPortScanner
 Welcome to the Greek Hacking portscanner.
 ##########################################
-Usage
+
+
+Opening
 =====
+pip install -r requirements.txt
 python3 GHPortScanner.py
-Enter host: (e.g www.greekhacking.gr)
 
 That's all you need to do!
 Enjoy!
