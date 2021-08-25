@@ -6,9 +6,8 @@ Welcome to the Greek Hacking portscanner.
 
 Opening
 =====
-pip install -r requirements.txt
-cd GHPortScanner-v1.1
-python3 GHPortScanner.py
-
-That's all you need to do!
-Enjoy!
+<p>pip install -r requirements.txt</p>
+<p>cd GHPortScanner-v1.1</p>
+<p>python3 GHPortScanner.py</p>
+<p>That's all you need to do!</p>
+<h1>Enjoy!</h1>
