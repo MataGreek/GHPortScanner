@@ -1,7 +1,8 @@
 # GHPortScanner
 Welcome to the Greek Hacking portscanner.
 ##########################################
-![Untitled](https://user-images.githubusercontent.com/89479885/130706724-0717b2f4-d4dc-4747-90d9-05262d8e192e.jpg)
+![Untitled](https://user-images.githubusercontent.com/89479885/130835912-fd8648c5-56a3-44cd-9c12-cd71469267b5.png)
+
 
 
 Install and Opening
