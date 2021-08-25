@@ -7,7 +7,7 @@ import colorama
 from datetime import datetime
 from colorama import *
 
-os.system('cls')
+os.system('clear')
 
 colorama.init()
 
